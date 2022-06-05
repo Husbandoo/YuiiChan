@@ -51,10 +51,19 @@ from tg_bot.modules.notes import private_get, lst_notes
 from tg_bot.modules.language import gs
 
 PM_START_TEXT = """
-Hi {}, my name is {}!
-I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/095d7e696096e21b06447.jpg)
+やあ "O Kawaii Koto" {} - San!
 
-You can find the list of available commands with /help.
+I'm Vice-President Of Council Here To Manage Your Group With Useful & Advanced Features 
+
+◈ Version : 3.10.6
+
+◈ Server Uptime : {}
+
+◈ {} Users , Across {} Chats.
+
+➢ Try The Help Buttons Below To See The Commands Available After My Element Buff ××
+
+You can find the list of available comm
 """
 
 HELP_STRINGS = """
@@ -77,7 +86,7 @@ And the following:
 )
 
 
-Yuii_IMG = "https://telegra.ph/file/145c818a6b4e5bc92765d.jpg"
+Yuii_IMG = "https://telegra.ph/file/2023d7c4a27551deaf8fa.jpg"
 
 
 IMPORTED = {}
