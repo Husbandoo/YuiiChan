@@ -51,25 +51,20 @@ from tg_bot.modules.notes import private_get, lst_notes
 from tg_bot.modules.language import gs
 
 PM_START_TEXT = """
-やあ "O Kawaii Koto" {} - San!
+*やあ "O Kawaii Koto" {} - San!
+I'm Vice-President Of Student Council Here To Manage Your Group With Useful & Advanced Features.*
 
-I'm Vice-President Of Council Here To Manage Your Group With Useful & Advanced Features 
+◈ *Version* : `3.10.4`
+◈ *Council Uptime* : `{}`
+◈ `{}` *Users* , *Across* `{}` *Chats*
 
-◈ Version : 3.10.6
-
-◈ Server Uptime : {}
-
-◈ {} Users , Across {} Chats.
-
-➢ Try The Help Buttons Below To See The Commands Available After My Element Buff ××
-
-You can find the list of available comm
+➢ *Try The Help Buttons Below To See The Commands Available After My Element Buff* ××
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'll be at your service take a look below to know how to use me.
-If you have any questions on how to use me, head over to @YuiiChanSupport
+If you have any questions on how to use me, head over to @ShinomiyaSupport
 *Main* commands available:
  • /start: start the bot
  • /help: PM's you this message.
